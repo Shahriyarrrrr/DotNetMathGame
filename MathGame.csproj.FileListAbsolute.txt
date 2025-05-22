@@ -1,0 +1,7 @@
+D:\MATHGAME\MathGame\MathGame\bin\Debug\MathGame.exe.config
+D:\MATHGAME\MathGame\MathGame\bin\Debug\MathGame.exe
+D:\MATHGAME\MathGame\MathGame\bin\Debug\MathGame.pdb
+D:\MATHGAME\MathGame\MathGame\obj\Debug\MathGame.csproj.AssemblyReference.cache
+D:\MATHGAME\MathGame\MathGame\obj\Debug\MathGame.csproj.CoreCompileInputs.cache
+D:\MATHGAME\MathGame\MathGame\obj\Debug\MathGame.exe
+D:\MATHGAME\MathGame\MathGame\obj\Debug\MathGame.pdb
